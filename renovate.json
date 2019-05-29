@@ -8,9 +8,6 @@
   "minor": {
     "groupName": "all dependencies"
   },
-  "lockFileMaintenance": {
-    "groupName": "all dependencies"
-  },
   "schedule": "at any time",
   "timezone": "Asia/Tokyo"
 }
