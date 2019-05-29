@@ -1,5 +1,17 @@
 {
   "extends": [
-    "config:base"
-  ]
+    "config:base",
+    ":preserveSemverRanges"
+  ],
+  "major": false,
+  "node": false,
+  "minor": {
+    "groupName": "all dependencies"
+  },
+  "lockFileMaintenance": {
+    "enabled": true,
+    "groupName": "all dependencies"
+  },
+  "schedule": "at any time",
+  "timezone": "Asia/Tokyo"
 }
