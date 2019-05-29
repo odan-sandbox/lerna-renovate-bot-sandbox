@@ -9,8 +9,7 @@
     "groupName": "all dependencies"
   },
   "lockFileMaintenance": {
-    "enabled": true,
-    "groupName": "all dependencies"
+    "enabled": true
   },
   "schedule": "at any time",
   "timezone": "Asia/Tokyo"
